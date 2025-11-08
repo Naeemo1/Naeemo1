@@ -3,8 +3,8 @@
 A passionate Senior .NET Developer with over 8 years of experience building scalable, cloud-native applications on the Microsoft stack.
 I specialize in designing clean, maintainable systems using Domain-Driven Design and microservices architecture.
 
-- 📫 How to reach me <p dir="auto">📫 How to reach me <strong><a href="mailto:naiemhisham@gmail.com">naiemhisham@gmail.com</a></strong></p>
-- 📄 Know about my experiences <p dir="auto">📄 Know about my experiences <a href="https://www.linkedin.com/in/naeem-hisham" rel="nofollow">https://www.linkedin.com/in/naeem-hisham</a></p>
+- 📫 How to reach me <p dir="auto"><strong><a href="mailto:naiemhisham@gmail.com">naiemhisham@gmail.com</a></strong></p>
+- 📄 Know about my experiences <p dir="auto"><a href="https://www.linkedin.com/in/naeem-hisham" rel="nofollow">https://www.linkedin.com/in/naeem-hisham</a></p>
 
 ## 🛠️ Tech Stack
 
