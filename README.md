@@ -24,7 +24,7 @@ I specialize in designing clean, maintainable systems using Domain-Driven Design
 
 ## 📈 GitHub Stats
 
-[!Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemo1&show_icons=true&theme=radical)](https://github.com/Naeemo1/github-readme-stats)
+[![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemo1&show_icons=true&theme=radical)](https://github.com/naeemo1/github-readme-stats)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-hisham/)
